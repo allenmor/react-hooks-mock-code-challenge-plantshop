@@ -4,19 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
-    },
-    {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": "19"
     },
     {
       "id": 4,
@@ -41,6 +29,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cute",
+      "image": "https://fyf.tac-cdn.net/images/products/large/BF257-11K.jpg?auto=webp&quality=80&width=690",
+      "price": "35",
+      "id": 8
     }
   ]
 }
